@@ -1,6 +1,7 @@
 *{
     font-family: sans-serif;
     text-align: justify;
+    justify-content: center;
 }
 body{
     background-color: moccasin;
@@ -20,7 +21,8 @@ a:hover{
 }
 footer{
     background-color: brown;
-    color:moccasin
+    color:moccasin;
+    text-align: center;
 }
 section{
     padding-bottom:  30px;
